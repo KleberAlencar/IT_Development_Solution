@@ -16,7 +16,7 @@ A rota abaixo retorna um usuario ao fornecer um id. A classe UserService possui 
  
 2 - Qual seria uma das possíveis sugestões de correção? 
 
-![img.png](img.png)
+![01_img.png](01_img.png)
 
 ## 3. RESOLUÇÃO:
 1. Receber o 'id' como um parâmetro da rota, o que é uma prática recomendada para APIs RESTful.

@@ -14,7 +14,7 @@ Uma área de negócios identificou a necessidade de um relatório periódico de 
 
 O time de IT ficou encarregado de desenvolver uma solução. A solução proposta abaixo subiu para produção.
 
-![img_1.png](img_1.png)
+![01_img.png](01_img.png)
 
 Logo após entrar em produção, os usuários notaram alguns problemas com os arquivos, e pouco tempo depois o time do banco de dados abriu um incidente pois o serviço derrubou o banco de dados.
 

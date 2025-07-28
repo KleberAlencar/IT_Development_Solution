@@ -31,7 +31,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{1AF871AB-DC95-4786-B0FF-46827BE7AE00}"
 	ProjectSection(SolutionItems) = preProject
 		src\Case3\Documentation\README.md = src\Case3\Documentation\README.md
-		src\Case3\Documentation\img.png = src\Case3\Documentation\img.png
+		src\Case3\Documentation\01_img.png = src\Case3\Documentation\01_img.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case2", "Case2", "{5AC52609-8203-4484-AD6D-E18450C81740}"
@@ -45,9 +45,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Case6", "Case6", "{10836C4E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{4DA042C5-9810-43D6-AA0A-BC6148FEDD44}"
 	ProjectSection(SolutionItems) = preProject
-		src\Case5\Documentation\img.png = src\Case5\Documentation\img.png
 		src\Case5\Documentation\README.md = src\Case5\Documentation\README.md
-		src\Case5\Documentation\img_1.png = src\Case5\Documentation\img_1.png
+		src\Case5\Documentation\01_img.png = src\Case5\Documentation\01_img.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{9C9EE5E3-A673-4069-82F1-A000B6F8F362}"
@@ -74,6 +73,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentat
 		src\Case2\Documentation\05.png = src\Case2\Documentation\05.png
 		src\Case2\Documentation\06.png = src\Case2\Documentation\06.png
 		src\Case2\Documentation\01_hora_contador.png = src\Case2\Documentation\01_hora_contador.png
+		src\Case2\Documentation\01_img.png = src\Case2\Documentation\01_img.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{F486BE8E-1E45-44FC-A68C-61A298BE7498}"

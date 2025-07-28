@@ -27,7 +27,7 @@ Novo Registro:
 - Investidor: Produto 4
 - Produto Investido: Produto 1
 
-![img.png](img.png)
+![01_img.png](01_img.png)
 
 ## 3. CONSIDERAÇÕES:
 1. Por se tratar de procedure/cursores/tabelas temporárias entendo que tudo deverá ser resolvido nesta camada, inclusive a regra de negócio.

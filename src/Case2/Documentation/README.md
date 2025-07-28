@@ -74,7 +74,7 @@ Considerando o funcionamento do protocolo FIX descrito acima e o trecho de arqui
 - a)	Descreva o output do método GetTimeBucketsDictionary()
 - b)	Descreva o conteúdo do arquivo output.csv
 
-![img_1.png](img_1.png)
+![01_img.png](01_img.png)
 
 ## RESOLUÇÃO:
 1. Output do método GetTimeBucketsDictionary() é um Dictionary<string, int> contendo todos os segundos definidos entre os horários 10:00:00 (startingDate) e 21:00:00 (targetTime).
