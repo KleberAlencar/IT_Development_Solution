@@ -43,5 +43,6 @@ Como sugestão de correções, e uma possível abordagem para API foi desenvolvi
 - O banco de dados utilizado é o PostgreSQL, e a conexão é feita via docker compose.
 - Existem novas abordagens de arquitetura e construção de APIs que utilizam records e não é necessário realizar o mapeamento utilizado neste projeto.-
 - Foi criada a interface IDbConnectionFactory para abstrair a conexão com o banco de dados, permitindo que novas implementações possam ser facilmente integradas.
+- O projeto de testes não está completo, somente alguns exemplos de testes unitários foram implementados para demonstrar a funcionalidade.
 - A solução apresentada é uma abordagem simplificada e pode ser expandida com mais funcionalidades, como autenticação, autorização, validação de entrada, etc.
  
